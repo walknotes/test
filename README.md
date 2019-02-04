@@ -23,6 +23,6 @@ git config --global user.email some@lklkajsd.com
 git status;
 
 
-#what is pull?
-
+# push for upload local files to github, pull for download github holding files to local, if something changed there, by others.
+git pull;
 

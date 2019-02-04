@@ -16,6 +16,17 @@ git pull;
 
 #then next time you push in thie folder, it won't prompt to ask for passwords.
 
+#to use emacs 
+git config --global core.editor emacs -nw
+
+#to change commit username and email address:
+git config --global user.name "Your name";
+git config --global user.email some@lklkajsd.com
+
+#to check git status:
+
+git status;
+
 
 
 

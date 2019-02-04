@@ -23,6 +23,6 @@ git config --global user.email some@lklkajsd.com
 git status;
 
 
-
+#what is pull?
 
 
